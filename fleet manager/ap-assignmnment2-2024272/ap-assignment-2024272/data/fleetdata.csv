@@ -1,0 +1,4 @@
+type,id,model,maxSpeed,efficiency,fuelLevel,currentPassengers,maintenanceNeeded,currentMileage
+Car,1,"2",3.00,15.0000,0.0000,0,false,0.0000
+Bus,9,"8",7.00,10.0000,,,,0.0000
+Truck,7,"6",5.00,8.0000,,,,0.0000

@@ -1,0 +1,2 @@
+type,id,model,maxSpeed,efficiency,fuelLevel,currentPassengers,maintenanceNeeded,currentMileage
+Car,c011,"creta",195.00,15.0000,0.0000,0,false,0.0000
